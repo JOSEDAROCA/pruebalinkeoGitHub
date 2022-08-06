@@ -9,8 +9,3 @@ document.getElementById("app").innerHTML = `
 </div>`;
 
 
-console.log ("Hola")
-
-var Receta: = (0)
-
-console.log (receta);
